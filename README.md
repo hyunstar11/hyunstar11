@@ -9,7 +9,7 @@
 - Code States AIB Bootcamp (Nov. 2021 ~ June 2022) 
 - Former LG Chem Employee (July 2021 ~ Nov. 2021) 
 
-### SKILLS
+### Skills
 - **LANGUAGE**
 	> **Python**, MySQL, SQLite3
 - **DATA ANALYSIS**
