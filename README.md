@@ -8,12 +8,9 @@
 - Northwestern University '18 (Major in Industrial Engineering and Management Sciences) 
 - Code States AIB Bootcamp (Nov. 2021 ~ June 2022) 
 
-### Interests 
-- AI/ML/DL Modeling 
-
 ### SKILLS
 - **LANGUAGE**
-	> **Python**, **MySQL**, SQLite3
+	> **Python**, MySQL, SQLite3
 - **DATA ANALYSIS**
 	> **Pandas**, **NumPy**, **SciPy**
 - **DL/ML FRAMEWORK**
@@ -22,6 +19,10 @@
 	> **Matplotlib**, **Seaborn**, Pyplot, Metabase
 - **DATA ENGINEERING**
 	> Flask, Heroku
+
+### Interests 
+- AI/ML/DL Modeling 
+- Data Analysis 
 
 <div align=center>
 
