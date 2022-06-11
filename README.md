@@ -5,7 +5,6 @@
 </div>
 
 ### Seeking a Data Scientist / Analyst position
-- Northwestern University '18 (Bachelor's Degree in Industrial Engineering and Management Sciences) 
 - Code States AIB Bootcamp (Nov. 2021 ~ June 2022) 
 - Former LG Chem Employee (July 2021 ~ Nov. 2021) 
 
