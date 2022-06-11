@@ -6,7 +6,6 @@
 
 ### Seeking a Data Scientist / Analyst position
 - Code States AIB Bootcamp (Nov. 2021 ~ June 2022) 
-- Former LG Chem Employee (July 2021 ~ Nov. 2021) 
 
 ### Skills
 - **LANGUAGE**
