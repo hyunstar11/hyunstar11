@@ -11,7 +11,7 @@
 ### Interests 
 - AI/ML/DL Modeling 
 
-### 🛠 스킬셋
+### SKILLS
 - **LANGUAGE**
 	> **Python**, **MySQL**, SQLite3
 - **DATA ANALYSIS**
