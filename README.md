@@ -11,6 +11,18 @@
 ### Interests 
 - AI/ML/DL Modeling 
 
+### 🛠 스킬셋
+- **LANGUAGE**
+	> **Python**, **MySQL**, SQLite3
+- **DATA ANALYSIS**
+	> **Pandas**, **NumPy**, **SciPy**
+- **DL/ML FRAMEWORK**
+	> **Tensorflow**, **PyTorch**, **Scitkit-learn**
+- **DATA VISUALIZATION**
+	> **Matplotlib**, **Seaborn**, Pyplot, Metabase
+- **DATA ENGINEERING**
+	> Flask, Heroku
+
 <div align=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-kyu-hyun-leem-6661856a/)](https://www.linkedin.com/in/andrew-kyu-hyun-leem-6661856a/) 
