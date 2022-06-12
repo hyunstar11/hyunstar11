@@ -22,7 +22,7 @@
 	> Flask, Heroku
 
 ### Interests 
-- AI/ML/DL Modeling 
+- ML/DL Modeling 
 - Data Analysis 
 
 <div align=center>
