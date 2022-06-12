@@ -5,7 +5,7 @@
 </div>
 
 ### 안녕하세요! 현재 데이터 사이언티스트/애널리스트 포지션을 찾고 있습니다.  
-### Currently seeking a Data Scientist/Analyst position
+### Currently seeking a Data Scientist/Analyst position!
 - Code States AIB Bootcamp (Nov. 2021 ~ June 2022) 
 
 ### Skills
