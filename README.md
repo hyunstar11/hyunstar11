@@ -6,8 +6,6 @@
   
 ### Currently seeking a Data Scientist/Analyst position!
 - Code States AI Bootcamp (Nov. 2021 ~ June 2022) 
-- Former LG Chem Employee (July 2021 ~ Nov. 2021) 
-- Northwestern University Class of 2018 (Bachelor's Industrial Engineering and Management Sciences) 
 
 ### Skills
 - **LANGUAGE**
