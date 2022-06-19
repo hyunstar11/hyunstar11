@@ -4,7 +4,7 @@
 
 </div>
   
-### Currently seeking a Data Scientist/Analyst position!
+### Currently seeking a Data Scientist/Analyst position
 - Code States AI Bootcamp (Nov. 2021 ~ June 2022) 
 
 ### Skills
