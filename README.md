@@ -13,7 +13,7 @@
 - **DATA ANALYSIS**
 	> **Pandas**, **NumPy**, **SciPy**
 - **DL/ML FRAMEWORK**
-	> **Tensorflow**, **PyTorch**, **Scitkit-learn**
+	> **Tensorflow**, **PyTorch**, **Scikit-learn**
 - **DATA VISUALIZATION**
 	> **Matplotlib**, **Seaborn**, Pyplot, Metabase
 - **DATA ENGINEERING**
