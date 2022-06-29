@@ -4,8 +4,9 @@
 
 </div>
   
-### Currently seeking a Data Scientist/Analyst position
+### Aspiring Data Scientist / Analyst 
 - Code States AI Bootcamp (Nov. 2021 ~ June 2022) 
+- Portfolio 
 
 ### Skills
 - **LANGUAGE**
@@ -22,9 +23,6 @@
 ### Interests 
 - ML/DL Modeling 
 - Data Analysis 
-
-### Comments 
-- 제거 진행했던 프로젝트들은 'Portfolio' 레포를 통해 살펴보실 수 있습니다 
 
 <div align=center>
 
