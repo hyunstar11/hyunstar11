@@ -23,6 +23,9 @@
 - ML/DL Modeling 
 - Data Analysis 
 
+### Comments 
+- 제거 진행했던 프로젝트들은 'Portfolio' 레포를 통해 살펴보실 수 있습니다 
+
 <div align=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-kyu-hyun-leem-6661856a/)](https://www.linkedin.com/in/andrew-kyu-hyun-leem-6661856a/) 
