@@ -5,7 +5,7 @@
 </div>
   
 ### Aspiring Data Scientist 
-- [Click here for my Portfolio / 포트폴리오 보기](https://github.com/hyunstar11/Portfolio "포트폴리오 보기")  
+- [See Portfolio / 포트폴리오 보기](https://github.com/hyunstar11/Portfolio "포트폴리오 보기")  
 - Code States AI Bootcamp (Nov. 2021 ~ June 2022) 
  
 
