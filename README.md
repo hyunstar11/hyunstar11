@@ -3,7 +3,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunstar11)](https://hits.seeyoufarm.com) 
 
 </div>
-  
+
+### Welcome to my Github
+
 - [See Portfolio / 포트폴리오 보기](https://github.com/hyunstar11/Portfolio "포트폴리오 보기")  
 - Code States AI Bootcamp (Nov. 2021 ~ June 2022) 
  
