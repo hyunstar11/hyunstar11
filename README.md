@@ -16,7 +16,7 @@
 - **DATA VISUALIZATION**
 	> **Matplotlib**, **Seaborn**, Pyplot, Metabase
 - **DATA ENGINEERING**
-	> Flask, Heroku
+	> Flask, Heroku, **Selenium**, BeautifulSoup
 
 ### Interests 
 - ML/DL Modeling 
