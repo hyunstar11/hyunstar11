@@ -1,6 +1,6 @@
-### Welcome to my Github
+### Welcome to Andrew Leem's Github
 
-- [See Portfolio](https://github.com/hyunstar11/Portfolio "포트폴리오 보기")  
+- [See My Portfolio](https://github.com/hyunstar11/Portfolio "포트폴리오 보기")  
 - M.S. in Machine Learning and Data Science at Northwestern University (Expected December 2025)
 - B.S. in Industrial Engineering and Management Sciences at Northwestern University (Class of 2018)
  
