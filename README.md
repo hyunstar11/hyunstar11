@@ -7,7 +7,7 @@
 
 ### Skills
 - **LANGUAGE**
-	> **Python**,SQLite3
+	> **Python**,**SQL**,R 
 - **DATA ANALYSIS**
 	> **Pandas**, **NumPy**, **SciPy**
 - **DL/ML FRAMEWORK**
