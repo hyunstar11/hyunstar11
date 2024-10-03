@@ -1,8 +1,8 @@
 ### Welcome to my Github
 
-- [See Portfolio / 포트폴리오 보기](https://github.com/hyunstar11/Portfolio "포트폴리오 보기")  
-- Code States AI Bootcamp (Nov. 2021 ~ June 2022) 
-- [Blog](https://andy1132.tistory.com/)  
+- [See Portfolio](https://github.com/hyunstar11/Portfolio "포트폴리오 보기")  
+- M.S. in Machine Learning and Data Science at Northwestern University (Expected December 2025)
+- B.S. in Industrial Engineering and Management Sciences at Northwestern University (Class of 2018)
  
 
 ### Skills
@@ -20,7 +20,7 @@
 ### Interests 
 - ML/DL Modeling 
 - Data Analysis 
-- Adobe / Google An alytics
+- Adobe/Google Analytics
 - Adobe Launcher, Google Tag Manager
 - Web Tag Analytics
   
