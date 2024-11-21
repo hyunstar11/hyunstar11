@@ -1,4 +1,4 @@
-### Welcome to Andrew Leem's Github
+### Welcome to Andrew's Github
 
 - M.S. in Machine Learning and Data Science at Northwestern University (Expected December 2025)
 - B.S. in Industrial Engineering and Management Sciences at Northwestern University (Class of 2018)
