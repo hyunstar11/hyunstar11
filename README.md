@@ -1,7 +1,7 @@
 ### Welcome to Andrew's Github
 
-- M.S. in Machine Learning and Data Science at Northwestern University (Expected December 2025)
-- B.S. in Industrial Engineering and Management Sciences at Northwestern University (Class of 2018)
+- M.S. in Machine Learning and Data Science at Northwestern  (Expected December 2025)
+- B.S. in Industrial Engineering and Management Sciences at Northwestern (Class of 2018)
 - [See My Portfolio](https://github.com/hyunstar11/Portfolio "포트폴리오 보기")   
 
 ### Skills
