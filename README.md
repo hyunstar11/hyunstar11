@@ -1,4 +1,4 @@
-# Andrew Leem – Data Scientist 
+# Andrew (Kyu Hyun) Leem – Data Scientist 
 
 ### Featured Projects – [Resume](https://1drv.ms/b/s!Al6hwrbEx32GgQEdmkff4GIbzFMx?e=9NY)  
 - [H&M Personalized Fashion Recommender](#hm-personalized-fashion-recommendation-system)  
@@ -7,7 +7,7 @@
 ---
 
 Welcome to my GitHub!  
-I'm **Andrew (Kyu Hyun) Leem**, a Master’s student in Machine Learning & Data Science at Northwestern University with prior experience as a Data Scientist and AI Intern. My work spans **AI innovation in retail and beverage distribution, customer segmentation, recommender systems, and GenAI pipelines**. I’m passionate about building machine learning solutions that not only deliver business value but also scale seamlessly in production environments.
+I'm **Andrew Leem**, a Master’s student in Machine Learning & Data Science at Northwestern University with prior experience as a Data Scientist and AI Intern. My work spans **AI innovation in retail and beverage distribution, customer segmentation, recommender systems, and GenAI pipelines**. I’m passionate about building machine learning solutions that not only deliver business value but also scale seamlessly in production environments.
 
 ---
 
