@@ -46,9 +46,9 @@ I bring a strong foundation in Python, SQL, PyTorch, and TensorFlow, along with 
 ---
 
 ### H&M Customer Churn Prediction System (May 2025)
-- Engineered an end-to-end churn prediction pipeline with automated data processing, feature engineering, and reproducible experiment management to forecast customer retention risk  
-- Developed and tuned a Random Forest model that identified high-risk customers, enabling targeted retention strategies supported by interpretable churn probability predictions  
-- Built and deployed an interactive Streamlit dashboard with AWS integration, allowing stakeholders to visualize churn risk, feature importance, and model performance metrics in real time  
+- Built an end-to-end churn prediction pipeline with automated data processing, feature engineering, and reproducible experiment management  
+- Developed a Random Forest model to identify high-risk customers, enabling targeted retention strategies with interpretable churn scores  
+- Deployed an interactive Streamlit dashboard on AWS to visualize churn risk, feature importance, and model performance in real time  
 
 ---
 
