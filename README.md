@@ -8,7 +8,6 @@
 
 Welcome to my GitHub!  
 I'm **Andrew (Kyu Hyun) Leem**, a Master’s student in Machine Learning & Data Science at Northwestern University with prior experience as a Data Scientist and AI Intern. My work spans **AI innovation in retail and beverage distribution, customer segmentation, recommender systems, and GenAI pipelines**. I’m passionate about building machine learning solutions that not only deliver business value but also scale seamlessly in production environments.
-![Data Scientist | AI/ML Engineer](https://github.com/user-attachments/assets/7b4da98b-fa80-45de-9619-069f91345da1)
 
 ---
 
@@ -46,7 +45,7 @@ I bring a strong foundation in Python, SQL, PyTorch, and TensorFlow, along with 
 
 ---
 
-### H&M Customer Churn Prediction System (2025)
+### H&M Customer Churn Prediction System (May 2025)
 - Engineered an end-to-end churn prediction pipeline with automated data processing, feature engineering, and reproducible experiment management to forecast customer retention risk  
 - Developed and tuned a Random Forest model that identified high-risk customers, enabling targeted retention strategies supported by interpretable churn probability predictions  
 - Built and deployed an interactive Streamlit dashboard with AWS integration, allowing stakeholders to visualize churn risk, feature importance, and model performance metrics in real time  
