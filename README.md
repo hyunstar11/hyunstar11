@@ -1,6 +1,6 @@
 # Andrew (Kyu Hyun) Leem – Data Scientist 
 
-### Featured Projects – [Resume](https://1drv.ms/b/s!Al6hwrbEx32GgQEdmkff4GIbzFMx?e=9NY)  
+### Featured Projects – [Resume](https://)  
 - [H&M Personalized Fashion Recommender](#hm-personalized-fashion-recommendation-system)  
 - [FUSION RAG: Multi-Agent GenAI System](#fusion-rag-multi-agent-genai-system)
 
