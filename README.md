@@ -7,11 +7,12 @@
 ---
 
 Welcome to my GitHub!  
+
 I'm **Andrew Leem**, a Master’s student in Machine Learning & Data Science at Northwestern University with prior experience as a Data Scientist and AI Intern. My work spans **AI innovation in retail and beverage distribution, customer segmentation, recommender systems, and GenAI pipelines**. I’m passionate about building machine learning solutions that not only deliver business value but also scale seamlessly in production environments.
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 At Breakthru Beverage Group, I developed forecasting models to improve inventory planning, orchestrated Azure-hosted AI agents in C#/.NET Core, and led segmentation of 1,000+ retail accounts to guide sales strategy. Previously at Concentrix Catalyst, I enhanced global data accuracy, automated GDPR-compliant data retention pipelines in BigQuery, and standardized 20,000+ e-commerce tags across 100+ sites. Earlier at GLG, I built automated Python pipelines and Selenium scrapers to enrich company datasets and improve efficiency.  
 
@@ -19,7 +20,7 @@ I bring a strong foundation in Python, SQL, PyTorch, and TensorFlow, along with 
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 - **Programming:** Python, R, SQL, C#, Bash  
 - **ML & AI:** Scikit-learn, PyTorch, TensorFlow, Prophet, ARIMA, FAISS, LoRA  
 - **Data Platforms:** Snowflake, BigQuery, Hadoop  
@@ -29,7 +30,7 @@ I bring a strong foundation in Python, SQL, PyTorch, and TensorFlow, along with 
 
 ---
 
-## 🌟 Projects
+## Projects
 
 ### H&M Personalized Fashion Recommendation System (Mar 2025)
 - Built end-to-end recommender using collaborative filtering (FAISS), content-based similarity, and hybrid logic with association rules  
@@ -52,6 +53,6 @@ I bring a strong foundation in Python, SQL, PyTorch, and TensorFlow, along with 
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/andrewleem)  
 - Email: [andrew.leem@gmail.com](mailto:andrew.leem@gmail.com)  
