@@ -1,4 +1,4 @@
-# Andrew (Kyu Hyun) Leem – Data Scientist 
+# Andrew Leem
 
 ### Featured Projects – [Resume](https://)  
 - [H&M Personalized Fashion Recommender](#hm-personalized-fashion-recommendation-system)  
