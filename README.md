@@ -42,7 +42,7 @@ A two-part end-to-end system that combines **quantitative aftermarket signals** 
 | Component | Repo | Description |
 |-----------|------|-------------|
 | **sneaker-intel** | [hyunstar11/sneaker-intel](https://github.com/hyunstar11/sneaker-intel) | Tabular ML pipeline on 99K+ StockX transactions |
-| **reddit-sentiment** | [hyunstar11/reddit-sentiment](https://github.com/hyunstar11/reddit-sentiment) | NLP sentiment pipeline on 2,400+ Reddit posts across 9 subreddits |
+| **reddit-sentiment** | [hyunstar11/reddit-sentiment](https://github.com/hyunstar11/reddit-sentiment) · [Live Demo](https://reddit-sentiment-x87v7p7tqt6fcauzah6jnd.streamlit.app) | NLP sentiment pipeline on 2,400+ Reddit posts across 9 subreddits |
 
 **sneaker-intel** — ML demand forecasting:
 - XGBoost / LightGBM / Random Forest ensemble; 35-feature pipeline (brand, colorway, size, release recency, regional demand)
