@@ -8,17 +8,7 @@
 
 ---
 
-Welcome to my GitHub!
-
-I'm **Andrew Leem**, a Master's student in Machine Learning & Data Science at Northwestern University with prior experience as a Data Scientist and AI Intern. My work spans **demand forecasting, NLP/social listening, recommender systems, and GenAI pipelines** — with a focus on consumer and retail domains. I'm passionate about building ML systems that connect behavioral signals to business decisions.
-
----
-
-## About Me
-
-At Breakthru Beverage Group, I developed forecasting models to improve inventory planning, orchestrated Azure-hosted AI agents in C#/.NET Core, and led segmentation of 1,000+ retail accounts to guide sales strategy. Previously at Concentrix Catalyst, I enhanced global data accuracy, automated GDPR-compliant data retention pipelines in BigQuery, and standardized 20,000+ e-commerce tags across 100+ sites. Earlier at GLG, I built automated Python pipelines and Selenium scrapers to enrich company datasets and improve efficiency.
-
-I bring a strong foundation in Python, SQL, PyTorch, and TensorFlow, along with experience in cloud platforms like Azure, AWS, GCP, and Snowflake. My focus is on building interpretable, scalable AI systems that drive measurable business impact.
+Data Scientist @ HNI Corporation 
 
 ---
 
